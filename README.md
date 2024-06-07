@@ -46,9 +46,11 @@ python main.py
 
 # Game Controls
 Left Arrow Key: Move the basket to the left.
+
 Right Arrow Key: Move the basket to the right.
-Code Overview
-Fruit Catcher Game Code
+
+# Code Overview
+
 The game consists of several main components:
 
 # Main Window Setup
